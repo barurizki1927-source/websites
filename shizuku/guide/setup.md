@@ -1,5 +1,5 @@
 # User manual
-
+GG MOUSE PRO
 [[toc]]
 
 ## Start Shizuku
